@@ -24,7 +24,7 @@ public class Customs {
 		}
 	}
 
-	//PERSON of height joins queue
+	//person of height joins queue
 	private void join(int height){
 		//add typecasted height into queue LL
 		stackOfPeople.push((Integer) height);
